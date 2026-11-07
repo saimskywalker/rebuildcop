@@ -10,6 +10,8 @@ on a mid-range phone.
 [![CI](https://github.com/saimskywalker/rebuildcop/actions/workflows/ci.yml/badge.svg)](https://github.com/saimskywalker/rebuildcop/actions/workflows/ci.yml)
 [![license: MIT](https://img.shields.io/badge/license-MIT-green)](https://github.com/saimskywalker/rebuildcop/blob/main/LICENSE)
 
+**Status:** in maintenance. Bug reports and pull requests are still reviewed; new features are on hold.
+
 ## Why
 
 - Over-rebuilds are invisible in tests and code review; they show up later as
