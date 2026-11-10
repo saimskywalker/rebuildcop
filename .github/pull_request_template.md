@@ -6,6 +6,8 @@
 
 - [ ] `dart format --output=none --set-exit-if-changed lib test` and `flutter analyze lib test` are clean
 - [ ] `flutter test` passes
+- [ ] Closes an issue labelled `accepted`; at most 400 changed lines; no `// ignore:` (checked)
+- [ ] Changes to `lib/`, `bin/` or `example/lib/` come with a test (checked)
 - [ ] If `example/` changed: `flutter analyze` and `flutter test` pass there too
 - [ ] If this fixes a bug: there is a test that fails without the fix
 - [ ] If a failure message changed: the test that pins it is updated
